@@ -5,3 +5,12 @@
 un tableau
 
 une image
+
+
+
+
+
+Un graphique
+
+
+
